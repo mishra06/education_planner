@@ -37,6 +37,7 @@ const Planner = () => {
 
   return (
     <div className='container'>
+      <h1>Mishra Planner</h1>
       <div className="inputs_sec">
         <input ref={nameRef} type="text" placeholder='Name..'/>
         <input ref={hourRef} type="number" placeholder='Hours...' />

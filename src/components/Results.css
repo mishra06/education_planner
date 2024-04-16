@@ -8,6 +8,10 @@
     background-color: rgb(17, 17, 17);
 }
 
+.container >h1{
+    color: white;
+}
+
 .inputs_sec{
     display: flex;
     /* gap: .5rem; */
